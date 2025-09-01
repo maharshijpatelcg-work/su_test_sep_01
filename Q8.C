@@ -44,6 +44,7 @@ int choice;
                 } else {
                     printf("Error: Division by zero is not allowed.\n");
                 }
+                
                 break;
             case 5:
                 printf("Exiting the calculator. Goodbye!\n");
